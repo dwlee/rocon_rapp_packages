@@ -1,0 +1,5 @@
+display: The swing type door opener
+description: automatic door controller
+compatibility: 'rocon:/pc'
+interfaces: door_opener.interfaces
+launch: door_opener.launch
