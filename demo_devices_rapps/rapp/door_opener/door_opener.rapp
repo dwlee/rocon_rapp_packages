@@ -1,5 +1,6 @@
-display: Door opener
-description: Open a door automatically.
+display: Door opener PR 2
+description: Open a door automatically. PR 2
 compatibility: 'rocon:/pc'
+parameters: door_opener.parameters
 interfaces: door_opener.interfaces
 launch: door_opener.launch
