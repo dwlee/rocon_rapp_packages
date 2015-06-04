@@ -1,14 +1,12 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <package>
-  <name>demo_devices_rapps</name>
-  <version>0.0.0</version>
-  <description>The demo_devices_rapps package</description>
-  <maintainer email="dwlee@todo.todo">dwlee</maintainer>
-
-  <license>TODO</license>
-  <buildtool_depend>catkin</buildtool_depend>
-
-
-  <export>
-  </export>
+    <name>demo_devices_rapps</name>
+    <version>0.0.0</version>
+    <description>The demo_devices_rapps package</description>
+    <maintainer email="dwlee@todo.todo">dwlee</maintainer>
+    <license>TODO</license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <export>
+        <rocon_app>rapps/door_opener/door_opener.rapp</rocon_app>
+    </export>
 </package>
